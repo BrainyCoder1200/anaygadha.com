@@ -1,0 +1,94 @@
+#heading{
+    font-family: 'Bungee Spice', cursive;
+    font-style: italic;
+    text-align: center;
+    font-size: 45px;
+    font-weight: 50;
+}
+
+#headingSection{
+    background-color: rgba(255, 255, 255, 0.644);
+    height: 75px;
+    margin-top: 0px;
+    border:2px solid;
+    margin-bottom: 1px;
+    padding-bottom: 45px;
+}
+
+html{
+    background: url(https://wallpaperaccess.com/full/251014.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+.navbar{
+    background: rgba(245, 245, 245, 0.664);    
+}
+
+.navbar ul{
+    overflow:auto;
+    text-align: center;
+    
+}
+
+.navbar li{
+    float:left;
+    list-style: none;
+    margin:13px 23px;
+    font-size: 20px;
+    position: relative;
+    left: 300px;
+}  
+
+.navbar li a{
+    text-decoration: none;
+    padding: 0px 10px; 
+    color: darkorange;
+    margin: 13px 20px;
+    font-family: 'Bungee Spice', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+}
+
+.navbar li a:hover{
+    text-decoration: underline;
+    padding: 0px 10px;
+    color: rgb(209, 110, 45);
+
+    margin: 13px 20px;
+}
+
+#mainText{
+    font-size: 100px;
+    font-family: 'Dancing Script', cursive;
+    color:rgb(209, 110, 45) ;
+    font-weight: bolder;
+    background:rgba(128, 128, 128, 0.692);
+}
+
+#disclaimer{
+    background: rgba(240, 128, 128, 0.795);
+}
+
+.disclaimer{
+    font-weight: bolder;
+    text-align: center;
+    font-size: 50px;
+    color: azure;
+}
+
+#disclaimerText{
+    font-weight: bold;
+    text-align: center;
+    font-size: 40px;
+}
+
